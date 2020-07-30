@@ -16,5 +16,7 @@ Your choice of a presentation or blogpost. (10 marks)
 Here are examples of my submissions that should give you an idea of what your report would look like, what your notebook would look like in terms of clean, clear, and well-commented code, and what your presentation would look like or your blogpost would look like:
 
 Report: https://github.com/Utsav4852/Capstone-Project/blob/master/week%205/capstone%20report.pdf
+
 Notebook: https://github.com/Utsav4852/Capstone-Project/blob/master/week%205/Final%20project%20on%20North%20York.ipynb
+
 Blogpost: https://www.linkedin.com/pulse/capstone-project-battle-neighbourhood-utsav-jivani
